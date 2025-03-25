@@ -24,7 +24,7 @@ Welcome to my AWS Cloud Computing portfolio. This repository showcases hands-on 
 
 ## 🎖️ Certificates & Badges
 - AWS Cloud Foundations Completion Badge
-- UCW Course Completion Certificate (if available)
+- 
 
 ---
 
