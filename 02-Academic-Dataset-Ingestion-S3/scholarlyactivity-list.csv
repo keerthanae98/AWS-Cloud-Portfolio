@@ -1,0 +1,51 @@
+Activity_ID,Title,Faculty_ID,Date,Type_of_Activity,Conference/Journal_Name,Impact_Factor,Collaborators,Citations,Funding
+A1000,Deep Learning in AI,F1000,2023-01-15,Journal Article,Journal of AI Research,4.8,Dr. Emily Miller,120,50000
+A1001,Quantum Computing Algorithms,F1001,2022-11-20,Conference Paper,IEEE Quantum Computing,3.6,Dr. Sarah Brown,80,20000
+A1002,Bioinformatics for Healthcare,F1002,2023-03-30,Journal Article,Bioinformatics Journal,5.2,Dr. Robert Williams,150,35000
+A1003,Data Science Techniques in Finance,F1003,2022-06-18,Conference Paper,International Finance Conference,4.0,Dr. Anna Moore,65,10000
+A1004,Robotics in Industrial Automation,F1004,2023-02-05,Journal Article,Automation Journal,6.3,Dr. David Davis,200,70000
+A1005,Advanced Nanomaterials for Energy,F1005,2023-04-10,Journal Article,Nanotechnology Review,7.2,Dr. Charles Martin,220,80000
+A1006,History of Ancient Civilizations,F1006,2022-10-25,Book,Ancient Studies,2.8,Dr. James Wilson,45,5000
+A1007,Renewable Energy Systems,F1007,2023-07-01,Conference Paper,Global Renewable Energy,5.0,Dr. Karen Martinez,90,30000
+A1008,Political Theory and Ethics,F1008,2023-01-22,Journal Article,Journal of Political Philosophy,4.5,Dr. Michael Taylor,75,15000
+A1009,Social Justice Movements,F1009,2022-08-19,Book,Social Change Studies,3.4,Dr. Jessica Anderson,50,20000
+A1010,AI in Healthcare Diagnosis,F1010,2023-05-14,Journal Article,Journal of Medical AI,6.0,Dr. William Thomas,130,60000
+A1011,Advanced Statistics in Economics,F1011,2023-09-30,Journal Article,Journal of Economic Analysis,4.2,Dr. Patricia Jackson,90,40000
+A1012,Sustainable Architecture Design,F1012,2022-11-10,Conference Paper,International Architecture Conference,3.8,Dr. Richard White,60,25000
+A1013,Condensed Matter Physics,F1013,2023-06-22,Journal Article,Physics Today,5.1,Dr. Linda Harris,100,45000
+A1014,Genetic Engineering in Agriculture,F1014,2022-12-15,Journal Article,AgriBio Journal,4.6,Dr. Daniel Roberts,110,35000
+A1015,Modern History and Global Politics,F1015,2023-08-05,Book,Historical Perspectives,3.9,Dr. Susan Thompson,55,5000
+A1016,Public Policy and Government Reform,F1016,2022-09-12,Conference Paper,Public Administration Conference,4.1,Dr. Thomas Garcia,85,15000
+A1017,Chemical Engineering in Medicine,F1017,2023-04-25,Journal Article,Journal of Chemical Engineering,6.7,Dr. Karen Martinez,175,55000
+A1018,Molecular Biology and Genetics,F1018,2022-11-02,Journal Article,Journal of Molecular Biology,5.3,Dr. Joshua Allen,120,70000
+A1019,Digital Marketing Trends,F1019,2023-03-18,Conference Paper,Global Marketing Summit,4.2,Dr. Helen Wright,65,25000
+A1020,Cognitive Science and Neuroscience,F1020,2023-07-11,Journal Article,Journal of Cognitive Neuroscience,6.1,Dr. Michael Taylor,95,30000
+A1021,Urban Development and Housing,F1021,2022-08-30,Conference Paper,International Urban Studies Conference,3.7,Dr. Matthew Walker,70,15000
+A1022,Climatology and Environmental Change,F1022,2023-02-17,Journal Article,Environmental Change Journal,5.9,Dr. Dorothy Young,180,65000
+A1023,Philosophy of Science,F1023,2022-07-20,Journal Article,Philosophical Journal,4.4,Dr. Helen Wright,55,20000
+A1024,AI for Business Applications,F1024,2023-05-09,Conference Paper,International Business AI Conference,4.9,Dr. Christopher Scott,80,40000
+A1025,Behavioral Economics in Decision Making,F1025,2023-04-12,Journal Article,Journal of Behavioral Economics,6.0,Dr. Sharon Adams,95,25000
+A1026,Medical Research in Global Health,F1026,2023-08-15,Journal Article,Global Health Journal,7.1,Dr. Kimberly Sanchez,250,80000
+A1027,Social Theory and Public Policy,F1027,2022-10-05,Conference Paper,International Policy Forum,4.3,Dr. George Moore,60,20000
+A1028,Digital Humanities and Data Science,F1028,2023-06-01,Journal Article,Digital Studies Journal,5.5,Dr. Brian Mitchell,110,30000
+A1029,Genetic Engineering in Medicine,F1029,2023-01-29,Conference Paper,Global Medical Conference,4.8,Dr. Jack Allen,90,35000
+A1030,Neurobiology and Cognitive Research,F1030,2023-05-20,Journal Article,Journal of Neuroscience,5.2,Dr. Megan Sanchez,100,40000
+A1031,Renewable Energy and Sustainability,F1031,2022-12-03,Book,Environmental Studies,4.6,Dr. Rachel Roberts,85,50000
+A1032,Urban Sociology and City Planning,F1032,2023-02-22,Conference Paper,Sociology of Cities Conference,3.9,Dr. Steven Green,65,15000
+A1033,Artificial Intelligence Ethics,F1033,2022-09-10,Journal Article,AI Ethics Journal,6.0,Dr. Steven Lopez,115,55000
+A1034,Civil Engineering Innovations,F1034,2023-03-14,Journal Article,Civil Engineering Journal,5.4,Dr. Stephanie King,180,70000
+A1035,Probability and Stochastic Processes,F1035,2023-06-27,Journal Article,Stochastic Processes Journal,4.3,Dr. Steven Green,60,25000
+A1036,Aerospace Engineering and Technology,F1036,2023-04-15,Conference Paper,International Aerospace Conference,5.2,Dr. Cynthia Brown,70,30000
+A1037,Social Justice and Human Rights,F1037,2022-11-25,Book,Human Rights Studies,3.8,Dr. Joshua Evans,50,10000
+A1038,Environmental Impact Studies,F1038,2023-05-05,Conference Paper,Global Environmental Summit,4.7,Dr. Rebecca Lee,65,20000
+A1039,Data Mining for Predictive Analytics,F1039,2022-08-12,Journal Article,Journal of Data Science,6.4,Dr. Jack Allen,90,40000
+A1040,Pharmacology and Drug Development,F1040,2023-02-28,Journal Article,Pharmaceutical Research Journal,5.1,Dr. Rachel Roberts,130,50000
+A1041,Climatic Studies and Adaptation,F1041,2022-10-11,Journal Article,Climate Change Studies,4.2,Dr. George Moore,75,25000
+A1042,Advanced Robotics in Manufacturing,F1042,2023-03-07,Conference Paper,International Robotics Conference,5.3,Dr. Joshua Evans,120,45000
+A1043,AI in Business Applications,F1043,2023-04-29,Journal Article,Journal of Business AI,4.8,Dr. Jason Mitchell,140,50000
+A1044,Behavioral Science in Medicine,F1044,2022-07-18,Book,Medical Behavioral Science,3.9,Dr. Jason Mitchell,55,20000
+A1045,History of Modern Philosophy,F1045,2023-03-24,Conference Paper,Philosophy Today,3.6,Dr. Laura Adams,50,15000
+A1046,Chemical Engineering Innovations,F1046,2023-04-02,Journal Article,Chemical Engineering Today,5.5,Dr. Joshua Allen,135,50000
+A1047,AI and Data Analytics,F1047,2022-09-28,Journal Article,Journal of AI & Analytics,4.7,Dr. Joshua Allen,105,40000
+A1048,Public Policy and Governance,F1048,2023-05-22,Book,Policy and Governance,3.5,Dr. Jacob Torres,80,30000
+A1049,Genetics and Biotechnology,F1049,2023-01-18,Journal Article,Biotech Journal,6.1,Dr. Jacob Torres,150,55000

@@ -1,0 +1,51 @@
+Faculty_ID,First_Name,Last_Name,Department,Email,Phone,Office_Location,Rank,Research_Area,Years_of_Experience,Publications
+F1000,John,Smith,Computer Science,john.smith@university.edu,(123) 456-1234,Room 101,Professor,Artificial Intelligence,15,12
+F1001,Mary,Johnson,Physics,mary.johnson@university.edu,(123) 456-5678,Room 102,Associate Professor,Quantum Computing,10,8
+F1002,Robert,Williams,Biology,robert.williams@university.edu,(123) 456-8765,Room 103,Assistant Professor,Bioinformatics,6,5
+F1003,Sarah,Brown,Mathematics,sarah.brown@university.edu,(123) 456-1122,Room 104,Lecturer,Data Science,3,3
+F1004,David,Davis,Engineering,david.davis@university.edu,(123) 456-3344,Room 105,Adjunct Professor,Robotics,20,30
+F1005,Emily,Miller,Chemistry,emily.miller@university.edu,(123) 456-5679,Room 106,Professor,Nanotechnology,25,45
+F1006,James,Wilson,History,james.wilson@university.edu,(123) 456-6789,Room 107,Associate Professor,History of Science,12,7
+F1007,Anna,Moore,Engineering,anna.moore@university.edu,(123) 456-2233,Room 108,Assistant Professor,Renewable Energy,8,10
+F1008,Michael,Taylor,Political Science,michael.taylor@university.edu,(123) 456-4455,Room 109,Lecturer,Public Policy,2,1
+F1009,Jessica,Anderson,Sociology,jessica.anderson@university.edu,(123) 456-3344,Room 110,Professor,Social Justice,18,20
+F1010,William,Thomas,Computer Science,william.thomas@university.edu,(123) 456-7788,Room 111,Associate Professor,Data Science,14,10
+F1011,Patricia,Jackson,Mathematics,patricia.jackson@university.edu,(123) 456-9999,Room 112,Assistant Professor,Statistics,7,6
+F1012,Richard,White,Engineering,richard.white@university.edu,(123) 456-7777,Room 113,Professor,Environmental Sustainability,22,35
+F1013,Linda,Harris,Physics,linda.harris@university.edu,(123) 456-5670,Room 114,Lecturer,Astronomy,4,2
+F1014,Charles,Martin,Chemistry,charles.martin@university.edu,(123) 456-2323,Room 115,Professor,Organic Chemistry,30,50
+F1015,Susan,Thompson,History,susan.thompson@university.edu,(123) 456-3333,Room 116,Associate Professor,Modern History,17,18
+F1016,Thomas,Garcia,Political Science,thomas.garcia@university.edu,(123) 456-4444,Room 117,Assistant Professor,Public Policy,9,9
+F1017,Karen,Martinez,Engineering,karen.martinez@university.edu,(123) 456-1235,Room 118,Adjunct Professor,Mechanical Engineering,5,5
+F1018,Daniel,Roberts,Biology,daniel.roberts@university.edu,(123) 456-6780,Room 119,Professor,Genetics,19,28
+F1019,Nancy,Lopez,Philosophy,nancy.lopez@university.edu,(123) 456-4444,Room 120,Associate Professor,Ethics,11,13
+F1020,Matthew,Walker,Sociology,matthew.walker@university.edu,(123) 456-5555,Room 121,Assistant Professor,Urban Studies,6,7
+F1021,Dorothy,Young,Mathematics,dorothy.young@university.edu,(123) 456-9998,Room 122,Professor,Calculus,27,40
+F1022,Joshua,Allen,Engineering,joshua.allen@university.edu,(123) 456-2345,Room 123,Assistant Professor,Electrical Engineering,8,9
+F1023,Helen,Wright,Linguistics,helen.wright@university.edu,(123) 456-6789,Room 124,Professor,Phonetics,25,33
+F1024,Christopher,Scott,Economics,christopher.scott@university.edu,(123) 456-2345,Room 125,Lecturer,Microeconomics,3,2
+F1025,Sharon,Adams,Anthropology,sharon.adams@university.edu,(123) 456-8765,Room 126,Associate Professor,Archaeology,16,20
+F1026,Kevin,Baker,Engineering,kevin.baker@university.edu,(123) 456-3333,Room 127,Adjunct Professor,Structural Engineering,18,25
+F1027,Deborah,Gonzalez,History,deborah.gonzalez@university.edu,(123) 456-2234,Room 128,Professor,Ancient History,20,40
+F1028,Brian,Mitchell,Computer Science,brian.mitchell@university.edu,(123) 456-4456,Room 129,Assistant Professor,Artificial Intelligence,6,10
+F1029,Lisa,Perez,Chemistry,lisa.perez@university.edu,(123) 456-6677,Room 130,Professor,Bioorganic Chemistry,30,38
+F1030,Joseph,Robinson,Public Health,joseph.robinson@university.edu,(123) 456-2324,Room 131,Associate Professor,Epidemiology,12,15
+F1031,Angela,Clark,Political Science,angela.clark@university.edu,(123) 456-4444,Room 132,Assistant Professor,Political Theory,7,6
+F1032,Steven,Lopez,Engineering,steven.lopez@university.edu,(123) 456-8899,Room 133,Professor,Civil Engineering,22,28
+F1033,Rebecca,Lee,Mathematics,rebecca.lee@university.edu,(123) 456-4555,Room 134,Lecturer,Algebra,4,3
+F1034,Paul,Hall,Physics,paul.hall@university.edu,(123) 456-1122,Room 135,Professor,Quantum Mechanics,24,32
+F1035,Kimberly,Sanchez,Biology,kimberly.sanchez@university.edu,(123) 456-3345,Room 136,Associate Professor,Cell Biology,13,17
+F1036,George,Moore,History,george.moore@university.edu,(123) 456-8899,Room 137,Assistant Professor,Political History,6,8
+F1037,Stephanie,King,Philosophy,stephanie.king@university.edu,(123) 456-2234,Room 138,Professor,Metaphysics,18,25
+F1038,Steven,Green,Mathematics,steven.green@university.edu,(123) 456-8877,Room 139,Lecturer,Probability,2,1
+F1039,Rachel,Roberts,Physics,rachel.roberts@university.edu,(123) 456-6677,Room 140,Assistant Professor,Condensed Matter Physics,5,4
+F1040,Jason,Mitchell,Chemistry,jason.mitchell@university.edu,(123) 456-9988,Room 141,Professor,Inorganic Chemistry,22,30
+F1041,Cynthia,Brown,Engineering,cynthia.brown@university.edu,(123) 456-1236,Room 142,Associate Professor,Environmental Engineering,14,19
+F1042,Gary,Scott,Sociology,gary.scott@university.edu,(123) 456-3322,Room 143,Assistant Professor,Social Theory,6,6
+F1043,Laura,Adams,Education,laura.adams@university.edu,(123) 456-6678,Room 144,Professor,Educational Psychology,20,23
+F1044,Daniel,Thomas,Geography,daniel.thomas@university.edu,(123) 456-7788,Room 145,Associate Professor,Climatology,15,17
+F1045,Betty,Walker,Public Health,betty.walker@university.edu,(123) 456-2235,Room 146,Assistant Professor,Health Policy,5,4
+F1046,Joshua,Evans,Engineering,joshua.evans@university.edu,(123) 456-1123,Room 147,Adjunct Professor,Aerospace Engineering,13,14
+F1047,Jack,Allen,Mathematics,jack.allen@university.edu,(123) 456-2232,Room 148,Professor,Statistics,30,39
+F1048,Megan,Sanchez,Biology,megan.sanchez@university.edu,(123) 456-3347,Room 149,Associate Professor,Neurobiology,8,12
+F1049,Jacob,Torres,Physics,jacob.torres@university.edu,(123) 456-9987,Room 150,Assistant Professor,Optics,4,3

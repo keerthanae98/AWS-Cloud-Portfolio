@@ -1,0 +1,51 @@
+Member_ID,First_Name,Last_Name,Role,Department,Email,Phone,Office_Location,Years_of_Experience,Past_Committees
+C1000,John,Smith,Chairperson,Student Affairs,john.smith@university.edu,(123) 456-1234,Room 201,10,Event Planning, Volunteer Coordination
+C1001,Mary,Johnson,Secretary,Alumni Relations,mary.johnson@university.edu,(123) 456-5678,Room 202,5,Student Orientation, Fundraising
+C1002,Robert,Williams,Member,Student Government,robert.williams@university.edu,(123) 456-8765,Room 203,2,Freshman Welcome, Mentorship
+C1003,Sarah,Brown,Member,Community Outreach,sarah.brown@university.edu,(123) 456-1122,Room 204,3,Outreach Programs, Environmental Awareness
+C1004,David,Davis,Member,Faculty Affairs,david.davis@university.edu,(123) 456-3344,Room 205,12,Faculty Development, Recruitment
+C1005,Emily,Miller,Chairperson,Arts and Culture,emily.miller@university.edu,(123) 456-5679,Room 206,8,Art Exhibitions, Theatre Events
+C1006,James,Wilson,Member,Student Affairs,james.wilson@university.edu,(123) 456-6789,Room 207,4,Freshman Mentoring, Event Planning
+C1007,Anna,Moore,Secretary,Health and Wellness,anna.moore@university.edu,(123) 456-2233,Room 208,6,Mental Health Support, Wellness Activities
+C1008,Michael,Taylor,Member,Sustainability,michael.taylor@university.edu,(123) 456-4455,Room 209,1,Recycling Campaigns, Sustainability Research
+C1009,Jessica,Anderson,Chairperson,Public Relations,jessica.anderson@university.edu,(123) 456-3344,Room 210,10,Social Media Management, Advertising
+C1010,William,Thomas,Secretary,International Relations,william.thomas@university.edu,(123) 456-7788,Room 211,7,Global Outreach, International Conferences
+C1011,Patricia,Jackson,Member,Student Activities,patricia.jackson@university.edu,(123) 456-9999,Room 212,4,Event Coordination, Student Conferences
+C1012,Richard,White,Member,Technology Club,richard.white@university.edu,(123) 456-7777,Room 213,3,Technology Events, Hackathons
+C1013,Linda,Harris,Chairperson,Leadership Development,linda.harris@university.edu,(123) 456-2323,Room 214,9,Leadership Workshops, Skill Development
+C1014,Charles,Martin,Member,Music and Performing Arts,charles.martin@university.edu,(123) 456-3333,Room 215,6,Concerts, Talent Shows
+C1015,Susan,Thompson,Secretary,Community Engagement,susan.thompson@university.edu,(123) 456-5555,Room 216,2,Volunteer Events, Charity Work
+C1016,Thomas,Garcia,Member,Career Services,thomas.garcia@university.edu,(123) 456-2345,Room 217,3,Career Fairs, Resume Workshops
+C1017,Karen,Martinez,Chairperson,Research and Innovation,karen.martinez@university.edu,(123) 456-1235,Room 218,11,Research Symposium, Innovation Talks
+C1018,Daniel,Roberts,Member,Sports and Recreation,daniel.roberts@university.edu,(123) 456-6780,Room 219,5,Sports Events, Fitness Programs
+C1019,Nancy,Lopez,Secretary,Health Services,nancy.lopez@university.edu,(123) 456-4444,Room 220,6,Health Campaigns, Vaccination Drives
+C1020,Matthew,Walker,Member,Student Government,matthew.walker@university.edu,(123) 456-2222,Room 221,2,Student Elections, Debates
+C1021,Dorothy,Young,Chairperson,Volunteer Services,dorothy.young@university.edu,(123) 456-9998,Room 222,10,Community Projects, Fundraisers
+C1022,Joshua,Allen,Member,Finance Club,joshua.allen@university.edu,(123) 456-2345,Room 223,4,Budget Planning, Financial Workshops
+C1023,Helen,Wright,Secretary,Student Activities,helen.wright@university.edu,(123) 456-6789,Room 224,8,Club Activities, Student Council
+C1024,Christopher,Scott,Member,IT Services,christopher.scott@university.edu,(123) 456-2345,Room 225,3,Tech Support, IT Events
+C1025,Sharon,Adams,Chairperson,Environmental Initiatives,sharon.adams@university.edu,(123) 456-8765,Room 226,12,Green Campaigns, Sustainability Programs
+C1026,Kevin,Baker,Secretary,Media Relations,kevin.baker@university.edu,(123) 456-3333,Room 227,5,Press Releases, Media Events
+C1027,Deborah,Gonzalez,Member,Research and Development,deborah.gonzalez@university.edu,(123) 456-2234,Room 228,9,Tech Research, Data Analysis
+C1028,Brian,Mitchell,Chairperson,Health and Wellness,brian.mitchell@university.edu,(123) 456-4456,Room 229,14,Health Campaigns, Mental Health Programs
+C1029,Lisa,Perez,Secretary,Public Relations,lisa.perez@university.edu,(123) 456-6677,Room 230,6,Media Campaigns, PR Events
+C1030,Joseph,Robinson,Member,Student Affairs,joseph.robinson@university.edu,(123) 456-2324,Room 231,3,Orientation, Freshman Week
+C1031,Angela,Clark,Chairperson,Art and Culture,angela.clark@university.edu,(123) 456-4444,Room 232,8,Art Exhibitions, Cultural Festivals
+C1032,Steven,Lopez,Secretary,Technology Club,steven.lopez@university.edu,(123) 456-8899,Room 233,5,Tech Talks, Workshops
+C1033,Rebecca,Lee,Member,Student Support,rebecca.lee@university.edu,(123) 456-4555,Room 234,2,Support Programs, Peer Counseling
+C1034,Paul,Hall,Chairperson,Entrepreneurship Club,paul.hall@university.edu,(123) 456-1122,Room 235,7,Startup Events, Networking
+C1035,Kimberly,Sanchez,Secretary,Student Leadership,kimberly.sanchez@university.edu,(123) 456-3345,Room 236,6,Leadership Trainings, Peer Leadership
+C1036,George,Moore,Member,Public Health,george.moore@university.edu,(123) 456-8899,Room 237,4,Health Campaigns, Public Health Initiatives
+C1037,Stephanie,King,Chairperson,Global Affairs,stephanie.king@university.edu,(123) 456-2234,Room 238,11,International Relations, Global Outreach
+C1038,Steven,Green,Secretary,Engineering Club,steven.green@university.edu,(123) 456-8877,Room 239,3,Tech Events, Engineering Competitions
+C1039,Rachel,Roberts,Member,Student Affairs,rachel.roberts@university.edu,(123) 456-6677,Room 240,2,Student Engagement, Clubs
+C1040,Jason,Mitchell,Chairperson,Academic Affairs,jason.mitchell@university.edu,(123) 456-9988,Room 241,13,Academic Conferences, Research Seminars
+C1041,Cynthia,Brown,Secretary,Career Services,cynthia.brown@university.edu,(123) 456-1236,Room 242,4,Job Fairs, Career Workshops
+C1042,Gary,Scott,Member,Campus Life,gary.scott@university.edu,(123) 456-3322,Room 243,3,Campus Activities, Events Planning
+C1043,Laura,Adams,Chairperson,Education Services,laura.adams@university.edu,(123) 456-6678,Room 244,12,Educational Programs, Teacher Training
+C1044,Daniel,Thomas,Secretary,Student Governance,daniel.thomas@university.edu,(123) 456-7788,Room 245,5,Student Council, Academic Events
+C1045,Betty,Walker,Member,Community Outreach,betty.walker@university.edu,(123) 456-2235,Room 246,7,Charity Events, Fundraising Campaigns
+C1046,Joshua,Evans,Chairperson,Technology and Innovation,joshua.evans@university.edu,(123) 456-1123,Room 247,9,Innovation Talks, Tech Competitions
+C1047,Jack,Allen,Secretary,Faculty Affairs,jack.allen@university.edu,(123) 456-2232,Room 248,5,Faculty Development, Workshops
+C1048,Megan,Sanchez,Member,Social Sciences,megan.sanchez@university.edu,(123) 456-3347,Room 249,2,Sociology Projects, Public Seminars
+C1049,Jacob,Torres,Chairperson,Student Support,jacob.torres@university.edu,(123) 456-9987,Room 250,8,Counseling Services, Peer Mentoring
