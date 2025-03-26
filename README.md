@@ -70,7 +70,7 @@ I'm **Keerthana**, a passionate tech enthusiast and Technical Support Specialist
 
 ---
 
-> _“Whatever I have and whatever I’m doing is a blessing. I’m just getting started.”_ 🌟  
+> _“Whatever I have and whatever I’m doing is a Blessing. I’m just getting started.”_ 🌟  
 > — Keerthana
 
 ---
